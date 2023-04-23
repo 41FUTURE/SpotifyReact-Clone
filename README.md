@@ -2,7 +2,7 @@ Spotify Clone with React JS
 This is a Spotify Clone web application built using React JS. The application aims to mimic the functionalities of Spotify, including displaying user playlists, searching for songs and artists, and playing music.
 
 Installation
-Clone the repository: git clone https://github.com/your-username/spotify-clone.git
+Clone the repository: git clone https://github.com/41FUTURE/SpotifyReact-Clone.git
 
 Navigate to the project directory: cd spotify-clone
 
